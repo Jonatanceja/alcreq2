@@ -1,0 +1,72 @@
+Title: Trabajos de Presfuerzo
+
+----
+
+Icon: - presfuerzo.svg
+
+----
+
+Slider:
+
+- >
+  whatsapp-image-2021-04-05-at-18.53.03-1.jpeg
+- >
+  whatsapp-image-2021-04-05-at-18.53.03-2.jpeg
+- >
+  whatsapp-image-2021-04-05-at-18.53.03.jpeg
+- >
+  whatsapp-image-2021-04-05-at-18.53.04-1.jpeg
+- >
+  whatsapp-image-2021-04-05-at-18.53.04-2.jpeg
+- >
+  whatsapp-image-2021-04-05-at-18.53.04.jpeg
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae lorem dolor. In sit amet feugiat augue. Donec vehicula velit non fermentum porta. Vestibulum porttitor ac ex ut finibus. Ut laoreet lobortis lorem at fringilla. Etiam nec nulla ornare, porttitor erat nec, facilisis mi. Mauris augue nibh, convallis nec lectus vel, aliquam viverra lectus. In vulputate enim nec pharetra ultrices. Phasellus mi eros, finibus sit amet nisi at, ultrices euismod eros.
+
+----
+
+Gallery:
+
+- >
+  whatsapp-image-2021-04-05-at-18.53.04-2.jpeg
+- presfuerzo.svg
+- >
+  whatsapp-image-2021-04-05-at-18.53.03-1.jpeg
+- >
+  whatsapp-image-2021-04-05-at-18.53.03-2.jpeg
+- >
+  whatsapp-image-2021-04-05-at-18.53.03.jpeg
+- >
+  whatsapp-image-2021-04-05-at-18.53.04-1.jpeg
+- >
+  whatsapp-image-2021-04-05-at-18.53.04.jpeg
+
+----
+
+Descgallery: 
+
+----
+
+Design: 
+
+----
+
+Desigallery: 
+
+----
+
+Especifications: 
+
+----
+
+Espgallery: 
+
+----
+
+Cover: 
+
+----
+
+Uuid: UMRoRwti5wsqfLVC

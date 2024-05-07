@@ -1,0 +1,19 @@
+title: Servicio
+fields:
+  icon:
+    type: files
+    label: Icono
+    max: 1
+  slider:
+    type: files
+    label: Galeria 
+    width: 1/2
+    layout: cards
+  description:
+    type: textarea
+    label: Descripción
+    width: 1/2
+
+
+  
+  

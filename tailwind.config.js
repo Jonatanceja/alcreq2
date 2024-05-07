@@ -6,7 +6,20 @@ import typography from '@tailwindcss/typography'
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        flag: {
+          light: '#287E4A',
+          DEFAULT: '#1A5632',
+          dark: '#113921',
+        },
+        silver: {
+          light: '#D3DADC',
+          DEFAULT: '#8C9091',
+          dark: '#515354',
+        },
+      }
+    },
   },
   variants: {
     extend: {},

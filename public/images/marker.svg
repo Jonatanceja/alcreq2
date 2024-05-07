@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>marker</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <path d="M8.30629688,17.6368359 C3.19816406,10.2315586 2.25,9.47155078 2.25,6.75 C2.25,3.02206641 5.27206641,0 9,0 C12.7279336,0 15.75,3.02206641 15.75,6.75 C15.75,9.47155078 14.8018359,10.2315586 9.69370312,17.6368359 C9.35848828,18.1210781 8.64147656,18.121043 8.30629688,17.6368359 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-53.000000, -911.000000)">
+            <g id="marker" transform="translate(51.000000, 911.000000)" filter="url(#filter-1)">
+                <g>
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="Group" mask="url(#mask-3)" fill="#242A42">
+                        <g id="🎨-color">
+                            <rect id="Black" x="0" y="0" width="18" height="18"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+title: Introducción de la empresa
+fields: 
+  intro:
+    type: textarea
+    label: Texto de introducción
+  related:
+    label: Productos 
+    type: pages
+    templates: product

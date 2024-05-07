@@ -1,0 +1,7 @@
+title: Recuadros de servicios
+fields:
+  related:
+    label: Servicios
+    type: pages
+    templates: services
+          

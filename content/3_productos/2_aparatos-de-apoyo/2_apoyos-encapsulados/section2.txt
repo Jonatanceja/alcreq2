@@ -1,0 +1,19 @@
+Title: Apoyos Encapsulados
+
+----
+
+Text:
+
+Los apoyos Alcreq tipo POT pueden adaptarse a la mayoría de las estructuras dado que soportan grandes cargas y al mismo tiempo permiten rotación y desplazamiento.
+
+Se componen principalmente de una cazoleta de acero denominada POT. En la que se inserta una almohadilla de elastómetro asentado sobre la parte superior de la superficie de elastómetro y en contacto con los dos laterales de la base se aloja un pistón de acero cilíndrico, así la carga vertical pasa del pistón a la base a través del elastómetro, mientras que el movimiento de las acciones laterales encuentra resistencia debido al contacto entre el pistón y el POT.
+
+----
+
+Photo: 
+
+----
+
+Pdf:
+
+- Apoyos Encapsulados.pdf

@@ -1,0 +1,10 @@
+title: Productos recientes
+
+fields:
+  heading:
+    type: text
+    label: Encabezado
+  related:
+    label: Productos destacados
+    type: pages
+    templates: product

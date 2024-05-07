@@ -1,0 +1,20 @@
+Title: Diseño de anclas de tensión con barra grado 150
+
+----
+
+Place: Autopista Tijuana - Ensenada
+
+----
+
+Client: Santos Chisum S.A. de C.V.
+
+----
+
+Work: Diseño de anclas permanentes para estabilizar el talud natural en la Autopista Tijuana - Ensenada.
+
+----
+
+Gallery:
+
+- anclas-ensenada.jpg
+- anclas-ensenada-2.jpg

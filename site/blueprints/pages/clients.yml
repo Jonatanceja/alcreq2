@@ -1,0 +1,9 @@
+title: Socios comerciales
+fields:
+  gallery:
+    type: files
+    label: Galería
+    layout: cards
+    image:
+      back: white
+      cover: false

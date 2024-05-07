@@ -1,0 +1,25 @@
+Title: Llamado a la acción
+
+----
+
+Bg: - about-cta.jpg
+
+----
+
+Headline: ¿Quieres sabe un poco más?
+
+----
+
+Text: Descarga nuestro CV y conoce a fondo nuestros clientes, proyectos y servicios
+
+----
+
+Button: Descarga CV
+
+----
+
+Link: #
+
+----
+
+Uuid: h5IyszGIgy2GkRCH

@@ -1,0 +1,60 @@
+Title: Trabajos Geotécnicos
+
+----
+
+Icon: - geotecnicos.svg
+
+----
+
+Slider:
+
+- anclas-ensenada-2.jpg
+- anclas-ensenada.jpg
+- >
+  whatsapp-image-2020-10-28-at-4.19.15-pm-2.jpeg
+- >
+  whatsapp-image-2020-11-03-at-12.42.30-pm.jpeg
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae lorem dolor. In sit amet feugiat augue. Donec vehicula velit non fermentum porta. Vestibulum porttitor ac ex ut finibus. Ut laoreet lobortis lorem at fringilla. Etiam nec nulla ornare, porttitor erat nec, facilisis mi. Mauris augue nibh, convallis nec lectus vel, aliquam viverra lectus. In vulputate enim nec pharetra ultrices. Phasellus mi eros, finibus sit amet nisi at, ultrices euismod eros.
+
+----
+
+Gallery:
+
+- anclas-ensenada-2.jpg
+- anclas-ensenada.jpg
+- geotecnicos.svg
+- >
+  whatsapp-image-2020-10-28-at-4.19.15-pm-2.jpeg
+- >
+  whatsapp-image-2020-11-03-at-12.42.30-pm.jpeg
+
+----
+
+Descgallery: 
+
+----
+
+Design: 
+
+----
+
+Desigallery: 
+
+----
+
+Especifications: 
+
+----
+
+Espgallery: 
+
+----
+
+Cover: 
+
+----
+
+Uuid: XlcNAVDzHc8JP9R9

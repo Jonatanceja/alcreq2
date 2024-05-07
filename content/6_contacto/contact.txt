@@ -1,0 +1,170 @@
+Title: Contacto
+
+----
+
+Cover: - portada-home.jpg
+
+----
+
+Map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.727017457953!2d-103.41755778463435!3d20.639980886210253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428ac377a82db09%3A0x61a1c74449c2afe!2sGrupo%20Alcreq%20Sa.%20de%20Cv.!5e0!3m2!1ses-419!2smx!4v1639158155632!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+----
+
+Fb-form-settings: true
+
+----
+
+Fb-form-id: formulario
+
+----
+
+Fb-form-class: block
+
+----
+
+Fb-usediv: true
+
+----
+
+Fb-builder:
+
+- 
+  field_name: nombre
+  field_class: text-flag text-sm uppercase
+  req: 'false'
+  field_label: Nombre
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_text
+  _uid: fb_text_1634168446785_576
+- 
+  field_name: correo
+  field_class: text-flag text-sm uppercase
+  req: 'false'
+  field_label: Correo
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_email
+  _uid: fb_email_1634168456134_576
+- 
+  field_name: telefono
+  field_class: text-flag text-sm uppercase
+  req: 'false'
+  field_label: Teléfono
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_tel
+  _uid: fb_tel_1634168471479_576
+- 
+  field_name: mensaje
+  field_class: text-flag text-sm uppercase
+  req: 'false'
+  field_label: Mensaje
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  rows: null
+  _key: fb_textarea
+  _uid: fb_textarea_1634168485451_576
+
+----
+
+Fb-submit-label: Enviar
+
+----
+
+Fb-cancel-label: 
+
+----
+
+Fb-formbtns-class: 
+
+----
+
+Fb-captcha: false
+
+----
+
+Fb-captcha-theme: false
+
+----
+
+Fb-captcha-secretkey: 
+
+----
+
+Fb-captcha-sitekey: 
+
+----
+
+Fb-is-ajax: false
+
+----
+
+Fb-msg-position: false
+
+----
+
+Fb-success-page: 
+
+----
+
+Fb-error-page: 
+
+----
+
+Fb-success-msg: 
+
+----
+
+Fb-error-msg: 
+
+----
+
+Fb-send-email: false
+
+----
+
+Fb-email-recipient: 
+
+----
+
+Fb-email-sender-type: false
+
+----
+
+Fb-email-sender: 
+
+----
+
+Fb-email-sender-field: 
+
+----
+
+Fb-email-subject: 
+
+----
+
+Fb-save-submissions: false
+
+----
+
+Fb-key-field: 
+
+----
+
+Fb-received-submissions: 
+
+----
+
+Uuid: AYT0ukotKlwmrawI

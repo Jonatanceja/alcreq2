@@ -1,0 +1,43 @@
+Title: Valores
+
+----
+
+Photo: - valores.jpg
+
+----
+
+Values1:
+
+**Calidad**
+Excelencia en nuestros productos y servicios.
+
+**Seguridad**
+Cultura basada en la seguridad en la construcción.
+
+**Competitividad**
+Calidad en todo lo que hacemos, contamos con el mejor talento y recursos.
+
+----
+
+Values2:
+
+**Innovación**
+Nos enfocamos en la transformación y optimización.
+
+**Seguridad**
+Siempre buscamos tener capacidades de respuesta ante la evolución del mercado y sus necesidades.
+
+**Integridad**
+Actuar con principios y valores humanos.
+
+----
+
+Values: 
+
+----
+
+Icon: 
+
+----
+
+Uuid: KCPPreEVZGWH7Opm

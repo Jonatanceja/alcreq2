@@ -1,0 +1,18 @@
+title: Sección 2
+fields:
+  text:
+    type: textarea
+    label: Texto
+    width: 1/2
+  photo:
+    type: files
+    layout: Imagen
+    max: 1
+    layout: cards
+    size: huge
+    width: 1/2
+    label: Imagen
+  pdf:
+    type: files
+    max: 1
+    label: Folleto PDF

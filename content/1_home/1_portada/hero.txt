@@ -1,0 +1,17 @@
+Title: Portada
+
+----
+
+Headline: Bienvenidos a grupo Alcreq
+
+----
+
+Text: Somos un equipo de ingenieros con amplia experiencia que ofrece las mejores soluciones de construcción e ingeniería para cualquier tipo de proyecto.
+
+----
+
+Bg: - portada-home.jpg
+
+----
+
+Uuid: eG8LGJ8J6zj2wRHc

@@ -1,0 +1,25 @@
+Title: Llamado a la acción
+
+----
+
+Bg: - imagen-cta.jpg
+
+----
+
+Headline: ¿Interesado en trabajar con nosotros?
+
+----
+
+Text: Contamos con los conocimientos de ingeniería necesarios para gestionar cualquier tipo de proyecto.
+
+----
+
+Button: Contáctanos
+
+----
+
+Link: /contacto
+
+----
+
+Uuid: lvtr8BScLzhZ5Tai

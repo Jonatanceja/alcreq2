@@ -1,0 +1,23 @@
+title: Seccion de misión y visión
+
+fields:
+  icon:
+    type: files
+    max: 1
+    label: Icono de misión
+    layout: cards
+    width: 1/4
+  mission:
+      type: textarea
+      label: Misión
+      width: 3/4
+  vicon:
+    type: files
+    max: 1
+    label: Icono de visión
+    layout: cards
+    width: 1/4
+  vision: 
+      type: textarea
+      label: Visión
+      width: 3/4

@@ -1,0 +1,17 @@
+Title: Junta de Calzada JNA
+
+----
+
+Text: Están constituidas por una banda de material elastómero, normalmente una mezcla de cauchos con base de cloropreno, formuladas adecuadamente para dar elasticidad, resistencia y durabilidad a la misma. Dentro de esta se encuentran unos refuerzos metálicos de acero, que le confieren la rigidez y resistencia necesarias para transmitir las cargas de tráfico e impiden su incurvación al absorber los movimientos. El conjunto se ancla mediante pernos a los bordes de la estructura.
+
+----
+
+Photo:
+
+- junta-jna-100.jpg
+
+----
+
+Pdf:
+
+- Junta de Calzada JNA.pdf

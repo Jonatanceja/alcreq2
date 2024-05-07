@@ -1,0 +1,13 @@
+Title: Aparatos de apoyo
+
+----
+
+Cover: - cc169-3.jpg
+
+----
+
+Short: Son aquellos que se colocan entre un elemento transmisor de carga (superestructura) y otro que lo soporta (estribo o pila), son empleados para absorber las deformaciones verticales y horizontales, producidas por las cargas de los vehículos, sismos o por cambios de temperatura en la zona de apoyo.
+
+----
+
+Uuid: cF819fLvAZFiUg7Y

@@ -1,0 +1,17 @@
+title: Contacto
+sections:
+  contacto:
+    headline: Contacto
+    type: fields
+    fields:
+      cover:
+        type: files
+        max: 1
+        label: Image de fondo
+        width: 1/2
+      map: 
+        type: textarea
+        label: Mapa
+        width: 1/2
+  my_form:
+    extends: formbuilder

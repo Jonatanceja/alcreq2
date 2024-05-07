@@ -1,3 +1,112 @@
 title: Site
-preset: pages
-unlisted: true
+tabs:
+  content:
+    label: Páginas
+    icon: text
+    preset: pages
+    options:
+      url: false
+      status: false
+      delete: false
+    drafts:
+      extends: sections/articles
+      headline: Borradores
+    unlisted:
+      extends: sections/articles
+      headline: Páginas sin publicar
+    listed:
+      extends: sections/articles
+      headline: Páginas publicadas
+    templates:
+      - home
+      - about
+      - projects
+      - products
+      - services
+      - contact
+  
+  contact:
+    label: Contacto
+    icon: email
+    fields:
+      adress:
+        label: Direcciones
+        type: structure
+        fields:
+          titulo:
+            type: text
+            label: Título de la dirección
+          telefono:
+            type: tel
+            label: Teléfono
+            icon: phone
+            width: 1/2
+          telefono2:
+            type: tel
+            label: Teléfono 2
+            icon: phone
+            width: 1/2
+          mail:
+            type: email
+            label: Correo electrónico
+            width: 1/2
+          calle:
+            type: text
+            label: Calle
+            width: 1/2
+          numero:
+            type: text
+            label: Número
+            width: 1/2
+          colonia:
+            type: text
+            label: Colonia
+            width: 1/2
+          ciudad:
+            type: text
+            label: Ciudad
+            width: 1/2
+          estado:
+            type: text
+            label: Estado
+            width: 1/2
+          codigo:
+            type: text
+            label: Código Postal
+            width: 1/2
+          mapa:
+            type: text
+            label: Link a mapa
+          mapa2:
+            type: textarea
+            label: Insertar mapa
+      email:
+        label: Correo electrónico
+        type: email
+        width: 1/2
+      whatsapp:
+        icon: whatsapp
+        label: Whatsapp
+        type: text
+        width: 1/2
+
+  seo:
+    label: SEO
+    icon: search
+    fields: 
+      description:
+        label: Descripción del sitio
+        type: textarea
+      pixel:
+        label: Pixel de Facebook
+        type: textarea
+        width: 1/2
+      analytics:
+        label: Google Analytics
+        type: textarea
+        width: 1/2
+      opengraph:
+        label: Imagen Open Graph
+        type: files
+
+

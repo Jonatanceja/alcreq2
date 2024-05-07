@@ -1,0 +1,14 @@
+title: Servicios
+sections:
+  cover:
+    type: fields
+    fields:
+      bg:
+        type: files
+        max: 1
+        label: Imagen de portada
+  pages:
+    headline: Páginas
+    templates:
+      - service
+

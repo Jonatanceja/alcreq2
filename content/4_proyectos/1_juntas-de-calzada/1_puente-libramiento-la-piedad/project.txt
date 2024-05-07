@@ -1,0 +1,21 @@
+Title: Puente Libramiento La Piedad
+
+----
+
+Place: KM 76 + 000 Libramiento La Piedad, Michoacán
+
+----
+
+Client: ICA Infraestructura, S.A. de C.V.
+
+----
+
+Gallery: 
+
+----
+
+Bg: 
+
+----
+
+Uuid: Gy6To0i0cCzOxgEG

@@ -1,0 +1,8 @@
+title: Portada
+
+fields:
+  bg:
+    type: files
+    max: 1
+    label: Imagen de fondo
+  

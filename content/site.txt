@@ -1,1 +1,139 @@
-Title: Site Title
+Title: Grupo Alcreq
+
+----
+
+Adress:
+
+- 
+  titulo: Guadalajara
+  telefono: ' 33 20 03 55 40'
+  telefono2: ' 33 20 03 55 40'
+  mail: ""
+  calle: Pegaso
+  numero: "3606"
+  colonia: La Calma
+  ciudad: Guadalajara
+  estado: Jalisco
+  codigo: "45070"
+  mapa: https://goo.gl/maps/BShP13rDtzpNqri9A
+  mapa2: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.719361124395!2d-103.4151936!3d20.640292799999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428ac3773b5bd1f%3A0x7394c6df6855cc6f!2sC.%20Pegaso%203606%2C%20La%20Calma%2C%2045080%20Zapopan%2C%20Jal.!5e0!3m2!1ses-419!2smx!4v1715118064592!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  titulo: Ciudad de México
+  telefono: ""
+  telefono2: ""
+  mail: ""
+  calle: Av. Paseo de las Lomas
+  numero: "950"
+  colonia: Lomas de Chapultepec
+  ciudad: Miguel Hildalgo
+  estado: Ciudad de México
+  codigo: "11000"
+  mapa: https://goo.gl/maps/dgLwh1kmWBNm9x898
+  mapa2: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.6437336466174!2d-99.23554019999999!3d19.427793299999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2017fe7190b05%3A0xf9db4cf45b0bf119!2sAv.%20Fuente%20de%20Los%20Leones%2047%2C%20Lomas%20de%20Tecamachalco%2C%2053950%20Naucalpan%20de%20Ju%C3%A1rez%2C%20M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1715118089312!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  titulo: Planta
+  telefono: ""
+  telefono2: ""
+  mail: ""
+  calle: Carretera la Marquesa
+  numero: 'km.24+900 '
+  colonia: Tenango del Valle
+  ciudad: Almoloya del Río
+  estado: Estado de México
+  codigo: "52540"
+  mapa: https://goo.gl/maps/gVWvpDLq2c7Nq86g7
+  mapa2: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.344550091755!2d-99.4142315!3d19.267377099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cdf6fd1f6ec5eb%3A0xe36bb9d2ce2f94a9!2sCarr.%20La%20Marquesa%2C%2052753%20San%20Jer%C3%B3nimo%20Acazulco%2C%20M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1715118104960!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  titulo: Acapulco
+  telefono: 767 102 1885
+  telefono2: ""
+  mail: ""
+  calle: Fray Batolome de las Casas
+  numero: "1"
+  colonia: Fracc. Villas el Prado
+  ciudad: Chilpancingo
+  estado: Guerrero
+  codigo: "39095"
+  mapa: >
+    https://maps.app.goo.gl/eeczDDLAY4B7ohfQA
+  mapa2: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31077.47288672661!2d-99.47901211995787!3d17.519990059041046!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cbebeb5c647d69%3A0xc761edd4b0717061!2sFraccionamiento%20Villas%20Parador!5e0!3m2!1ses-419!2smx!4v1715118120959!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+
+----
+
+Email: contacto@alcreq.com
+
+----
+
+Whatsapp: 3333440777
+
+----
+
+Facebook: 
+
+----
+
+Instagram: 
+
+----
+
+Youtube: 
+
+----
+
+Description: Somos un equipo de ingenieros con amplia experiencia que ofrece las mejores soluciones de construcción e ingeniería para cualquier tipo de proyecto.
+
+----
+
+Pixel: 
+
+----
+
+Analytics: 
+
+----
+
+Opengraph: - file://9rBwD9U5C2q3ojrg
+
+----
+
+Nombre: Grupo Alcreq S.A. de C.V.
+
+----
+
+Telefono: (33) 20 03 55 40
+
+----
+
+Telefono2: (33) 33 44 07 77
+
+----
+
+Mail: contacto@alcreq.com
+
+----
+
+Calle: Pegaso
+
+----
+
+Numero: 3606
+
+----
+
+Colonia: La Calma
+
+----
+
+Ciudad: Guadalajara
+
+----
+
+Estado: Jalisco
+
+----
+
+Codigo: 45070
+
+----
+
+Redes: 

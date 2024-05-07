@@ -1,0 +1,12 @@
+title: Escena hero (portada)
+fields:
+  headline: 
+    type: text
+    label: Encabezado
+  text:
+    type: textarea
+    label: Area de texto
+  bg:
+    type: files
+    label: Imagen de fondo
+    max: 1

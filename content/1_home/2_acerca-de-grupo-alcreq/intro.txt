@@ -1,0 +1,23 @@
+Title: Acerca de grupo Alcreq
+
+----
+
+Intro: Somos un grupo de ingenieros, que tras 30 años de trayectoria y amplia experiencia deciden crear este proyecto enfocado a la construcción y soluciones de diseño.
+
+----
+
+Related:
+
+- proyectos/juntas-de-calzada
+- proyectos
+- >
+  proyectos/servicio-de-presfuerzo-en-puentes
+- >
+  proyectos/servicios-de-presfuerzo-en-losas-postensadas
+- proyectos/servicios-especiales
+- proyectos/trabajos-de-geotecnica
+- proyectos/ingenieria-estructural
+
+----
+
+Uuid: nqXTS7FRJT15oNxy

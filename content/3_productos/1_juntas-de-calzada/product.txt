@@ -1,0 +1,16 @@
+Title: Juntas de Calzada
+
+----
+
+Cover:
+
+- >
+  02-juntas-jd-110-periferico-guadalajara.jpg
+
+----
+
+Short: Las juntas de calzada permiten los movimientos relativos entre dos partes de una estructura, para cubrir requerimientos estructurales de diseño y construcción, para garantizar los movimientos como cambios de temperatura, efectos de retracción o flujo plástico, acortamientos por pretensado, cargas de tráfico, asentamientos diferenciales o tolerancias requeridas, compatibles con las condiciones de apoyo.
+
+----
+
+Uuid: NxBFzZi0FQ9VWbhq

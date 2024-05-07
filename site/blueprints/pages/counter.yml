@@ -1,0 +1,22 @@
+title: Contadores
+fields:
+  headline:
+    type: text
+    label: Encabezado
+  text:
+    type: textarea
+    label: Área de texto
+  counters:
+    type: structure
+    label: Contadores
+    fields:
+      headline: 
+        type: text
+        label: Encabezado
+      number:
+        type: number
+        label: Número
+  logo:
+    type: files
+    max: 1
+    label: Imagen de años

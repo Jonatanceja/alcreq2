@@ -1,0 +1,17 @@
+Title: Acerca de Grupo Alcreq
+
+----
+
+Photo: - alcreq.jpg
+
+----
+
+Logo: - logo.svg
+
+----
+
+Text: **Grupo Alcreq** nace de la visión de un grupo de ingenieros, que tras 30 años de trayectoria y amplia experiencia en el ramo de la construcción, deciden crear su propia empresa, abriendo así sus el 04 de noviembre del 2015. La empresa esta enfocada a la construcción y soluciones de diseño.
+
+----
+
+Uuid: qi4a9W9rB68vfsLE

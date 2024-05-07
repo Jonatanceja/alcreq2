@@ -1,0 +1,17 @@
+title: Proyecto
+fields:
+  place:
+    type: text
+    label: Lugar del proyecto
+    width: 1/2
+  client:
+    type: text
+    label: Cliente
+    width: 1/2
+  work:
+    type: text
+    label: Trabajo
+  gallery:
+    type: files
+    label: Galería del proyecto
+    layout: cards

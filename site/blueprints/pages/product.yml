@@ -1,0 +1,20 @@
+title: Producto
+sections:
+  cover:
+    type: fields
+    fields:
+      cover:
+        type: files
+        max: 1
+        label: Imagen de portada
+      short:
+        type: textarea
+        label: Introducción
+  pages:
+    headline: Secciones
+    templates:
+      - section1
+      - section2
+
+  
+  

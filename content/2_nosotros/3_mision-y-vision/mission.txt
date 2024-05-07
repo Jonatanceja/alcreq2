@@ -1,0 +1,25 @@
+Title: Misión y visión
+
+----
+
+Icon: - mission.svg
+
+----
+
+Mission: Ser un grupo líder en servicios y productos de construcción a nivel nacional con criterios de calidad, seguridad, sustentabilidad e innovación. Comprometiéndose con la satisfacción de los clientes, el desarrollo humano así como la preservación del medio ambiente.
+
+----
+
+Vicon: - vision.svg
+
+----
+
+Vision: Ser una empresa dedicada al diseño, consultoría e ingeniería de servicios integrados de la construcción, reconocida por su calidad en productos y servicios a nivel mundial, dirigida por una cultura basada en el enfoque al cliente, innovación y excelencia.
+
+----
+
+Text: 
+
+----
+
+Uuid: eE5qYrSlwrCW8Kgp

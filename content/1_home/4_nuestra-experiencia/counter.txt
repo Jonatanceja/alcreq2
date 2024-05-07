@@ -1,0 +1,38 @@
+Title: Nuestra Experiencia
+
+----
+
+Headline: Somos lideres en el ramo de la construcción
+
+----
+
+Text: Desde los proyectos más simples hasta los más complejos, Alcreq ofrece solución a sus problemas de construcción. Tenemos la tecnología y la experiencia que necesita para llevar a cabo cualquier tipo de construcción o remodelación.
+
+----
+
+Counters:
+
+- 
+  headline: Clientes
+  number: 100
+- 
+  headline: Proyectos
+  number: 1000
+- 
+  headline: Reconocimientos
+  number: 10
+- 
+  headline: Ingenieros
+  number: 100
+
+----
+
+Logo: - logo-30.png
+
+----
+
+Image: - logo-30.png
+
+----
+
+Uuid: T9mlUIQUfuuOy3fJ
